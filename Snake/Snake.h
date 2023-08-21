@@ -15,3 +15,8 @@ private:
 	int health;
 };
 
+class Snake
+{
+};
+
+
